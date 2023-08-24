@@ -1,0 +1,12 @@
+#loading {
+  background-image: url("ZKZg.gif"); /* Replace with your loading animation */
+  background-repeat: no-repeat;
+  background-size: 50px 50px; /* Adjust the size as needed */
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 50%; /* Center it vertically */
+  left: 50%; /* Center it horizontally */
+  transform: translate(-50%, -50%); /* Center it precisely */
+  display: none; /* Initially hide the loading animation */
+}
